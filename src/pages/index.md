@@ -101,7 +101,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/classic/feature-3.png
